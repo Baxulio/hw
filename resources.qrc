@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Subjects.qml</file>
+        <file>tasks.qml</file>
+        <file>images/arrow.png</file>
+        <file>images/arrows.png</file>
+        <file>images/drawer.png</file>
+        <file>images/eventindicator.png</file>
+        <file>images/menu.png</file>
+        <file>images/qt-logo.png</file>
+        <file>images/+material/drawer.png</file>
+        <file>images/+material/menu.png</file>
+        <file>main.qml</file>
+    </qresource>
+</RCC>
